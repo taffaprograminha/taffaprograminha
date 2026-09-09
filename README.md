@@ -2,7 +2,7 @@
 
 Estudante de informática, atualmente a trabalhar no projeto **PAP - Sistema de Gestão RFID**.
 
-### 🐍 Contribution Snake
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/taffaprograminha/taffaprograminha/output/github-contribution-grid-snake-dark.svg">
